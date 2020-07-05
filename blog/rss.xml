@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Playground Blog</title>
+        <link>https://lkatney.github.io/blog</link>
+        <description>Playground Blog</description>
+        <lastBuildDate>Tue, 05 May 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2020 Nymbian Ltd</copyright>
+        <item>
+            <title><![CDATA[Introducing Playground]]></title>
+            <link>https://lkatney.github.io/blog/introducing-playground</link>
+            <guid>introducing-playground</guid>
+            <pubDate>Tue, 05 May 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[- Are you a Salesforce developer or an administrator working on a development task?]]></description>
+        </item>
+    </channel>
+</rss>

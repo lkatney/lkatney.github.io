@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lkatney.github.io/blog</id>
+    <title>Playground Blog</title>
+    <updated>2020-05-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lkatney.github.io/blog"/>
+    <subtitle>Playground Blog</subtitle>
+    <icon>https://lkatney.github.io/img/favicon.ico</icon>
+    <rights>Copyright © 2020 Nymbian Ltd</rights>
+    <entry>
+        <title type="html"><![CDATA[Introducing Playground]]></title>
+        <id>introducing-playground</id>
+        <link href="https://lkatney.github.io/blog/introducing-playground"/>
+        <updated>2020-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- Are you a Salesforce developer or an administrator working on a development task?]]></summary>
+    </entry>
+</feed>
