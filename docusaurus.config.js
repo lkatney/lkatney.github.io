@@ -1,11 +1,11 @@
 module.exports = {
   title: 'Playground',
   tagline: 'Welcome to Playground, a cloud based platform where technology & collaboration do wonder.',
-  url: 'https://playg.app',
+  url: 'https://lkatney.github.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'Nymbian', // Usually your GitHub org/user name.
-  projectName: 'Playground', // Usually your repo name.
+  organizationName: 'lkatney', // Usually your GitHub org/user name.
+  projectName: 'lkatney.github.io', // Usually your repo name.
   stylesheets: [
     // {
     //   href: 'https://fonts.googleapis.com/css?family=Lato:300,400,700,900',
